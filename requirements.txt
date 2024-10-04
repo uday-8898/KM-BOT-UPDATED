@@ -1,0 +1,14 @@
+fastapi
+gunicorn
+nltk
+numpy
+scikit-learn
+openai
+PyPDF2
+mysql-connector-python
+azure-core
+azure-storage-blob
+numpy
+pandas
+uvicorn
+python-multipart
